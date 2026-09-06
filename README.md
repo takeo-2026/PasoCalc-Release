@@ -57,8 +57,8 @@ PasoCalc の「行ベース計算モデル」により、
 
 最新版はこちらからダウンロードできます。
 
-👉 [`https://github.com/takeo-2026/PasoCalc/releases/latest` [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Ftakeo-2026%2FPasoCalc%2Freleases%2Flatest")
-](https://github.com/takeo-2026/PasoCalc-Release/releases)
+👉https://github.com/takeo-2026/PasoCalc-Release/releases
+
 ## 🖥️ 動作環境
 
 - Windows 10 / 11  
