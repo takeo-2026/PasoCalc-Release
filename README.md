@@ -37,7 +37,7 @@ Excel を開くほどではないけれど、電卓では物足りない──
 
 ## 📷 画面例
 
-<img src="https://github.com/user-attachments/assets/9f57a9f9-6dbc-4698-8de9-b79ffaf4ccb8" width="1000">
+<img src="https://github.com/user-attachments/assets/9f57a9f9-6dbc-4698-8de9-b79ffaf4ccb8" width="400">
 
 ## 📥 ダウンロード
 
