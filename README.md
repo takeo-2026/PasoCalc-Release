@@ -1,3 +1,4 @@
+<img width="1427" height="1017" alt="画面ショット" src="https://github.com/user-attachments/assets/5f4efb5a-bae5-4142-85d0-d8423a888d2c" />
 # PasoCalc — 電卓の軽さで、Excel のように計算できる行ベース計算ツール
 
 **PasoCalc は、電卓の手軽さと Excel の柔軟性を両立した “行ベースの数式ワークスペース” です。**  
