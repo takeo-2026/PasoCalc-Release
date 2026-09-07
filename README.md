@@ -45,6 +45,8 @@ Excel を開くほどではないけれど、電卓では物足りない、
 
 最新版はこちらからダウンロードできます。
 
+👉 https://github.com/takeo-2026/PasoCalc-Release/releases
+
 ## 📷 画面例
 
 <img src="画面ショット.png" width="600">
