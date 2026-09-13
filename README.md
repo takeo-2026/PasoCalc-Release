@@ -1,3 +1,6 @@
+![release](https://img.shields.io/github/v/release/takeo-2026/PasoCalc-Release)
+![platform](https://img.shields.io/badge/platform-Windows-blue)
+
 # PasoCalc — PC のための軽量・構造化された電卓アプリ
 
 **PasoCalcは、計算を「行」として残しながら組み立てられる、Windows向けの軽量電卓です。**
